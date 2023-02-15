@@ -1,4 +1,4 @@
-title: Researcher
+title: Robert Spralja
 url: "https://ankitsultana.com"
 baseurl: ""
 
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/spralja"
+footer_text: "spralja"
 
 sass:
     style: compressed
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "/"
+ - name: "CV"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
